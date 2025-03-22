@@ -2,7 +2,7 @@
 
 ## Question 1
 
-When testing with the keyboard there are no keyboard interaction missing. I test it with the `Enter`, `Tab`, and `shift + Tab` keys and they are working fine.
+When testing with the keyboard, there are no keyboard interaction missing. I test it with the `Enter`, `Space`, `Tab`, and `shift + Tab` keys and they are working fine.
 
 ## Question 2
 
